@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AdAstra Adventures</string>
+    <string name="top_destinations">Our Top Destinations</string>
+    <string name="moon">Moon</string>
+    <string name="mars">Mars</string>
+    <string name="enceladus">Enceladus</string>
+    <string name="asteroid">Asteroid</string>
+    <string name="venus">Venus</string>
+    <string name="more_about_it">More About It...</string>
+</resources>
